@@ -27,23 +27,27 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/arulmozhikumar7/weather-app.git
 2. Install dependencies
+    ```bash
     cd weather-app
     npm install
 3. Get an API key from OpenWeatherMap and replace the placeholder in WeatherApp.js with your API key.
 4. Start the Application 
+  ```bash
     npm start
 5. Open your browser and go to http://localhost:3000 to view the app.
 
 ## Usage
 1.Enter the name of the city you want to check the weather for in the input field.
+
 2.Click the "Get Weather" button to fetch and display the current weather conditions.
+
 3.Enjoy the dynamic background that reflects the weather conditions.
 
 
 ## Technologies Used
-React
-Axios
-OpenWeatherMap API
+-React
+-Axios
+-OpenWeatherMap API
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
