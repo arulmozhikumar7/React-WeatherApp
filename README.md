@@ -43,11 +43,15 @@ To run this project locally, follow these steps:
 
 3.Enjoy the dynamic background that reflects the weather conditions.
 
+## Screenshots
+![Alt Text]('/public/demo/demo.png')
 
 ## Technologies Used
--React
--Axios
--OpenWeatherMap API
+1.React
+
+2.Axios
+
+3.OpenWeatherMap API
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
