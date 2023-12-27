@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
     npm install
 3. Get an API key from OpenWeatherMap and replace the placeholder in WeatherApp.js with your API key.
 4. Start the Application 
-  ```bash
+     ```bash
     npm start
 5. Open your browser and go to http://localhost:3000 to view the app.
 
