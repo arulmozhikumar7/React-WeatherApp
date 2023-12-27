@@ -2,6 +2,7 @@
 
 A simple React application that allows users to check the current weather conditions for a specific city. The application utilizes the OpenWeatherMap API to fetch weather data and dynamically sets a background image based on the weather conditions.
 
+Live Demo : https://arulmozhikumar7.github.io/React-WeatherApp/
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
