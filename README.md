@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 3.Enjoy the dynamic background that reflects the weather conditions.
 
 ## Screenshots
-![Alt Text]('public/demo/demo.png')
+![Alt Text](public/demo/demo.png)
 
 ## Technologies Used
 1.React
